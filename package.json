@@ -1,8 +1,8 @@
 {
-  "name": "@alizafaizan/-word-counter",
-  "version": "1.0.1",
+  "name": "@alizafaizan/word-counter",
+  "version": "2.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
